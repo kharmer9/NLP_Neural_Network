@@ -7,6 +7,7 @@ Sequence to Sequence Neural Network trained by Mark Twain's <i>The Adventures of
 <h3>Languages and Utilities Used</h3>
 
 - <b>Python</b> 
+- <b>Tensorflow</b>
 
 <h3>Environments Used </h3>
 
